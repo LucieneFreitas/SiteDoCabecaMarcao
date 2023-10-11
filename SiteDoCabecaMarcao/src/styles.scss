@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+//importar o bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  background: linear-gradient(to right, #000000, #ae00ff);
+}
+
+
